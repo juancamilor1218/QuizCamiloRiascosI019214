@@ -6,8 +6,8 @@
     <string name="fecha">Mar. 15-22,2018</string>
     <string name="co_item1">$1.173.000</string>
     <string name="por_item1">+13%</string>
-    <string name="ing">Ingresos</string>
-    <string name="gas">Gastos</string>
+    <string name="ing">Income</string>
+    <string name="gas">expenses</string>
     <string name="por_item2">-37%</string>
     <string name="co_item2">$3.747.000</string>
     <string name="hist">Historias De Transacciones</string>
