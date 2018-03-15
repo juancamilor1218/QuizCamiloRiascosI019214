@@ -5,8 +5,5 @@
         android:title="options"
         android:icon="@drawable/search"
         />
-    <item
-        android:id="@+id/itm_close"
-        android:title="share"
-        android:icon="@drawable/share"/>
+    
 </menu>
