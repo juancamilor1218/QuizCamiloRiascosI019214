@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizCamiloRiascosI019214</string>
+    <string name="fnt">FINANCIAR</string>
+    <string name="valor">$7.963.429</string>
+    <string name="fecha">Mar. 15-22,2018</string>
+    <string name="co_item1">$1.173.000</string>
+    <string name="por_item1">+13%</string>
+    <string name="ing">Ingresos</string>
+    <string name="gas">Gastos</string>
+    <string name="por_item2">-37%</string>
+    <string name="co_item2">$3.747.000</string>
+    <string name="hist">Historias De Transacciones</string>
+    <string name="mas">Mas</string>
+    <string name="mer">Mercado Libre</string>
+</resources>
